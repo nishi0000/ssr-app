@@ -1,0 +1,22 @@
+
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+.header-username {
+    margin: 0;
+    color: white;
+    font-size: 32px;
+}
+
+.header-profile-image {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    float:left;
+    margin-right: 16px;
+}
